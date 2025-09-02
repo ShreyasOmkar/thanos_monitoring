@@ -21,4 +21,4 @@ There are other two components which we did not opt for in our application cause
 
 # Deploy
 Deploy to your local to check with the deployment of the containers using below command in the src or where the compose file resides
-sudo docker-compose up -d 
+- sudo docker-compose up -d 
