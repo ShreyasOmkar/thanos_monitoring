@@ -1,0 +1,4 @@
+grpc:
+  enabled: true
+  address: "0.0.0.0:10901"  # Listening address for gRPC requests (remote write)
+bearer_token: /etc/thanos/token
