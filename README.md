@@ -50,6 +50,5 @@ The following Thanos components were **not included** in our implementation, as 
 ## 🚀 Getting Started
 
 ```bash
-# Example: Start Prometheus with Thanos Receiver 
+# Start Thanos monitoring setup 
 sudo docker-compose up -d
-```bash
